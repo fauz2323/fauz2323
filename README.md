@@ -1,3 +1,3 @@
-- 👋 Hi, I’m fauza
+- 👋 Hi, I’m fauzan
 - coding, coding, coding, sick -
 
