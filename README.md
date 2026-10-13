@@ -17,13 +17,11 @@
 - Flutter
 - Next.js
 - React
-- Tailwind CSS
 
 ### Backend
-- Node.js
+- ExpressJs
 - NestJS
 - Laravel
-- Firebase
 
 ### Blockchain
 - Ethereum
